@@ -20,5 +20,5 @@ Plase add you view in this directory.
 ## Paginate
 Paginate class for create pagnate when you get the data. Base from http://net.tutsplus.com/tutorials/php/how-to-paginate-data-with-php/
 
-This project create for small use.
-Me and @mikedamoiseau working together.
+This project create for small project.
+Me and [@mikedamoiseau](https://github.com/mikedamoiseau) working together.
