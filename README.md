@@ -1,7 +1,7 @@
 # The small MVC template
 Template for small web site or use for small API site.
 
-IF YOU NEVER KNOW WHAT'S IS MVC PLASE FOLLOW THIS [LINK](http://www.kontentblue.com/site/article/article?id=mvc-what-is) 
+IF YOU HAVE QUESTION LIKE **"WHAT IS MVC?"** PLASE FOLLOW THIS [LINK](http://www.kontentblue.com/site/article/article?id=mvc-what-is) 
 
 ## Bootstrap
 The `bootstrap.php` file will contain database setting. If you need to define
